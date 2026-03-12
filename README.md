@@ -6,7 +6,7 @@ Welcome to my repository of algorithmic challenges! I use this space to track my
 
 | # | Problem | Difficulty | Key Concept | Solution |
 |---|---|---|---|---|
-| 442 | Find All Duplicates in Array | Medium | In-place Hash (Sign Flip) | [C++](./Arrays/FindAllDuplicates/solution.cpp) |
+| 442 | Find All Duplicates in Array | Medium | In-place Hash (Sign Flip) | [C++](https://github.com/xorred/LeetCode-Portfolio/blob/main/Arrays/Find-All-Duplicates/solution.cpp)) |
 
 ## 🛠️ Tech Stack
 * **Language:** C++
